@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import requests from "../utils/request";
@@ -7,7 +6,7 @@ import { Movie } from "../typings";
 import Row from "../components/Row";
 import useAuth from "../hooks/useAuth";
 import { useRecoilValue } from "recoil";
-import { modalState } from "../atms/modalAtoms";
+import { modalState } from "../atoms/modalAtoms";
 import Modal from "../components/Modal";
 
 interface Props {
