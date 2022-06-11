@@ -5,9 +5,9 @@
   <a style="color:#F806CC;font-weight:bold"
   href="#Extras">Extras</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<img alt="header" title="header" src="./github/netflixlogo.gif" style="width:100vw;height:300px">
-
+<div style="display:flex;justify-content:center;">
+<img alt="header" title="header" src="./github/netflixlogo.gif">
+</div>
 # <a id="Projeto"></a> ⚡**Projeto**
 
 Aplicação web clone do Netflix (plataforma de streaming) desenvolvida com **Next.js** para fins de aprendizado.
