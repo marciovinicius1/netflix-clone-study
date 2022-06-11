@@ -5,9 +5,10 @@
   <a style="color:#F806CC;font-weight:bold"
   href="#Extras">Extras</a>&nbsp;&nbsp;&nbsp;
 </p>
-<div style="display:flex;justify-content:center;">
-<img alt="header" title="header" src="./github/netflixlogo.gif">
-</div>
+<div align="center">
+<img alt="header" title="header" src="./github/netflixlogo.gif"></div>
+
+
 # <a id="Projeto"></a> ⚡**Projeto**
 
 Aplicação web clone do Netflix (plataforma de streaming) desenvolvida com **Next.js** para fins de aprendizado.
@@ -23,15 +24,15 @@ Aplicação web clone do Netflix (plataforma de streaming) desenvolvida com **Ne
 🔸Também foi desenvolvida a funcionalidade "My List" onde o usuário pode adicionar um título a uma lista itens favoritos facilitando o acesso, essa funcionalidade foi feita de forma semelhante a aplicacão original.</br>
 🔸API utilizada para o conteúdo dos vídeos - <a scr="https://www.themoviedb.org/"><b>The MovieDB</b></a></p>
 
-### **Linguagens**:
+### **✨Linguagens**:
 
 Typescript | HTML | CSS
 
-### **Tecnologias**:
+### **✨Tecnologias**:
 
 React(Next.js) | Tailwind CSS | Firebase
 
-### **Principais bibliotecas**:
+### **✨Principais bibliotecas**:
 
 RecoilJs | React-Hot-Toast | MaterialUI | HeroIcons | React-Hook-Form
 
@@ -44,7 +45,7 @@ ex:[ 4242424242424242 ]</br>
 🔺**Confira o conteúdo...**
 <br>
 
-# <a id="Features"></a>**Features**:
+# <a id="Features"></a>**🔥Features**:
 
 #### **✅Sistema de login**
 
@@ -58,7 +59,7 @@ ex:[ 4242424242424242 ]</br>
 
 <br>
 
-# <a id="Extras"></a>**Extras**
+# <a id="Extras"></a>**🎁Extras**
 
 <img alt="gif aplication test 2" title="gif" src="./github/test1.gif">
 <img alt="gif aplication test" title="gif" src="./github/test2.gif">
