@@ -6,7 +6,7 @@
   href="#Extras">Extras</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="header" title="header" src="./github/header.gif" style="width:100vw;height:300px">
+<img alt="header" title="header" src="./github/netflixlogo.gif" style="width:100vw;height:300px">
 
 # <a id="Projeto"></a> ⚡**Projeto**
 
