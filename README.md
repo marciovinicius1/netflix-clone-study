@@ -6,23 +6,22 @@
   href="#Extras">Extras</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="header" title="header" src="./github/header.gif" style="width:100%;height:300px">
+<img alt="header" title="header" src="./github/header.gif" style="width:100vw;height:300px">
 
 # <a id="Projeto"></a> ⚡**Projeto**
 
 Aplicação web clone do Netflix (plataforma de streaming) desenvolvida com **Next.js** para fins de aprendizado.
 
 <img alt="screenshots" title="screenshots" src="./github/thumbnail.png">
-
-<br>
 <br>
 
 # <a id="Desenvolvimento"></a> ⚙️**Desenvolvimento**
 
+<p style="text-align: left;">
 🔸Projeto desenvolvido com a metodologia Mobile-Frist portanto é totalmente responsivo.</br>
 🔸Alem do design, foram replicadas algumas funcionalidades como Login e Inscrição de usuário onde foi integrado a API **Stripe** como método de pagamento através de sua extensão no Firebase (tecnologia utilizada para desenvolvimento do back-end). O método de pagamento foi totalmente integrado com a aplicação inclusive os cancelamento de inscrição e adição de protudos (Planos mensais).</br>
 🔸Também foi desenvolvida a funcionalidade "My List" onde o usuário pode adicionar um título a uma lista itens favoritos facilitando o acesso, essa funcionalidade foi feita de forma semelhante a aplicacão original.</br>
-🔸API utilizada para o conteúdo dos vídeos - <a scr="https://www.themoviedb.org/">**The MovieDB**</a>
+🔸API utilizada para o conteúdo dos vídeos - <a scr="https://www.themoviedb.org/"><b>The MovieDB</b></a></p>
 
 ### **Linguagens**:
 
@@ -43,8 +42,6 @@ RecoilJs | React-Hot-Toast | MaterialUI | HeroIcons | React-Hook-Form
 🔺Utilize um cartão de teste da **Stripe** Uitlize o exemplo a seguir ou confira no <a src="https://stripe.com/docs/testing">**_LINK_**</a> </br>
 ex:[ 4242424242424242 ]</br>
 🔺**Confira o conteúdo...**
-
-<br>
 <br>
 
 # <a id="Features"></a>**Features**:
@@ -59,7 +56,6 @@ ex:[ 4242424242424242 ]</br>
 
 #### **✅Responsividade**
 
-<br>
 <br>
 
 # <a id="Extras"></a>**Extras**
